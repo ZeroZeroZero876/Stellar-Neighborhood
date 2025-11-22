@@ -56,7 +56,7 @@ All the systems are made with scientific precision, unofficial impressions and c
 ---
 
 ## jmnet sfs forum:
-???
+https://jmnet.one/sfs/forum/index.php?threads/stellar-neighborhood-1-0.16757/
 
 ## Download link if you're a bit blind:
 https://github.com/ZeroZeroZero876/Stellar-Neighborhood/releases/tag/1.0.0
