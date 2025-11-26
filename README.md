@@ -51,7 +51,7 @@ All the systems are made with scientific precision, unofficial impressions and c
 - ***Bugfixes for Sol System***. Polishing the home system with the help of bug reports
 - ***Better Asteroid Textures***. New looks for not-essential minor moons and asteroids
 - ***Centaurs***. Major asteroid centaurs in the outer system
-- *** Trans Neptunian Objects***. Some new celestial bodies beyond neptune to diversify the kuiper belt
+- ***Trans Neptunian Objects***. Some new celestial bodies beyond neptune to diversify the kuiper belt
 - ***Alpha Centauri System***. The closest neighbor system to earth, with planets confirmed & non-confirmed included
 
 ---
